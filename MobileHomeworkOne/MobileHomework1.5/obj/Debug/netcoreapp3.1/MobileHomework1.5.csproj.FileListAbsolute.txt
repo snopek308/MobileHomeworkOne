@@ -1,0 +1,11 @@
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.exe
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.deps.json
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.runtimeconfig.json
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.runtimeconfig.dev.json
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.dll
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\bin\Debug\netcoreapp3.1\MobileHomework1.5.pdb
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\obj\Debug\netcoreapp3.1\MobileHomework1.5.csprojAssemblyReference.cache
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\obj\Debug\netcoreapp3.1\MobileHomework1.5.AssemblyInfoInputs.cache
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\obj\Debug\netcoreapp3.1\MobileHomework1.5.AssemblyInfo.cs
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\obj\Debug\netcoreapp3.1\MobileHomework1.5.dll
+D:\School\MobileHomeworkOne\MobileHomeworkOne\MobileHomework1.5\obj\Debug\netcoreapp3.1\MobileHomework1.5.pdb
